@@ -45,7 +45,7 @@ $ curl -v http://localhost:9090/hello/testuser
 < HTTP/1.1 200 OK
 * Server fasthttp is not blacklisted
 < Server: fasthttp
-< Date: Tue, 14 Nov 2017 15:26:54 GMT
+< Date: Tue, 14 Nov 2018 15:26:54 GMT
 < Content-Type: text/plain; charset=utf-8
 < Content-Length: 26
 <
